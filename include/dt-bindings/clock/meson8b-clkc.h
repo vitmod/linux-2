@@ -102,5 +102,8 @@
 #define CLKID_MPLL0		93
 #define CLKID_MPLL1		94
 #define CLKID_MPLL2		95
+#define CLKID_VDEC_1_SEL	96
+#define CLKID_VDEC_1_DIV	97
+#define CLKID_VDEC_1		98
 
 #endif /* __MESON8B_CLKC_H */
